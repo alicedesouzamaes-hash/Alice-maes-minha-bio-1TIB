@@ -2,10 +2,6 @@
   color: rgb(149, 82, 170);
 }
 
-.border-radius {
-  border: 1px solid rgb(149, 82, 170);
-}
-
-display:img {
-  border-radius: 10px;
+.cor-fundo-do-título {
+  background-color: rgb(149, 82, 170);
 }
