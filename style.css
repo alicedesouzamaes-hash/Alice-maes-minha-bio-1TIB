@@ -1,9 +1,11 @@
 body {
-  background-color: rgb(178, 102, 233);
+  background-color: rgb(56, 8, 90);
 }
-.cor-titulo {
-  color: rgb(78, 39, 90);
+
+body h1 {
+  color: rgb(208, 162, 223);
 }
-.cor-titulo2 {
-  color: rgb(60, 17, 73);
+
+body h2 {
+  color: rgb(173, 98, 196);
 }
